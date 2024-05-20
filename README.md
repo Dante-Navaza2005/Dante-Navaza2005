@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1721865600&v=beta&t=BfiyGfKE9CSYZdDfoQ0X1ub_j9tpAROViC-3WlmojfE)](https://www.linkedin.com/in/dante-navaza/)
 <h1 align="center">Hi 👋, I'm Dante Navaza</h1>
 <h3 align="center">A passionate software developer living in Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/PcUC.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/PcUC.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante-navaza2005&label=Profile%20views&color=0e75b6&style=flat" alt="dante-navaza2005" /> </p>
 
