@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://www.linkedin.com/in/dante-navaza/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1721865600&v=beta&t=BfiyGfKE9CSYZdDfoQ0X1ub_j9tpAROViC-3WlmojfE)](https://www.linkedin.com/in/dante-navaza/)
 <h1 align="center">Hi 👋, I'm Dante Navaza</h1>
 <h3 align="center">A passionate software developer living in Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
