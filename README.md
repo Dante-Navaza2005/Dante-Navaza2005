@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante-navaza2005&label=Profile%20views&color=0e75b6&style=flat" alt="dante-navaza2005" /> </p>
 
-- 🔭 I’m currently working on [E-commerce python](https://github.com/Dante-Navaza2005/Ecommerce-python-django)
+- 🔭 I’m currently working on [E-commerce python](https://github.com/Dante-Navaza2005/Reserva-Ecommerce-Django-Project)
 
 - 🌱 I’m currently learning **Mysql**
 
