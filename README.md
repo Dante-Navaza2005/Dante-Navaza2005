@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1727913600&v=beta&t=5YOsFby_y10rzJq_NUB3Ru1ZI-4tTZvo4-Alozfdw-0)](https://www.linkedin.com/in/dante-navaza/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1734566400&v=beta&t=Ig1Hg4gFDsfD0VaZt1yCSWwZDM1-SbFGd-4XG3SxUHQ)](https://www.linkedin.com/in/dante-navaza/)
 <h1 align="center">Hi 👋, I'm Dante Navaza</h1>
 <h3 align="center">A passionate software developer living in Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
