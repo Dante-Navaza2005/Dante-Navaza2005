@@ -1,27 +1,115 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1734566400&v=beta&t=Ig1Hg4gFDsfD0VaZt1yCSWwZDM1-SbFGd-4XG3SxUHQ)](https://www.linkedin.com/in/dante-navaza/)
-<h1 align="center">Hi 👋, I'm Dante Navaza</h1>
-<h3 align="center">Cloud Data & AI Engineer | Full-Stack Development</h3>
-<img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dante-navaza2005&label=Profile%20views&color=0e75b6&style=flat" alt="dante-navaza2005" /> </p>
+# Dante Honorato Navaza
 
-- I’m currently working with Petrobras and Aleon AI
+**Cloud Data & AI Engineer | Full-Stack Developer**
 
-- How to reach me: [dantenavaza2005@gmail.com](mailto:dantenavaza2005@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dante-navaza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dante-navaza/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantenavaza2005@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24616726)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ec_tvr3-9jydT1epMSa3jY1AAElk7EalPe8qa7Sfo2w/edit?usp=sharing)
 
-- Know about my experiences: [CV](https://docs.google.com/document/d/1ec_tvr3-9jydT1epMSa3jY1AAElk7EalPe8qa7Sfo2w/edit?usp=sharing)
-  
-- Fluent in **Portuguese, English, and Spanish**
+<img src="https://komarev.com/ghpvc/?username=dante-navaza2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dante-navaza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dante navaza" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24616726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24616726" height="30" width="40" /></a>
-<a href="https://instagram.com/dante__honorato2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dante__honorato2" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dante-navaza2005&theme=dark" alt="dante-navaza2005" /></p>
+Data and AI Engineer specializing in cloud-based ELT pipelines and AWS data lake architectures processing millions of records, alongside deployment of LLM-based enterprise automation systems. Experienced in building scalable full-stack web platforms and machine learning applications, including financial governance systems and predictive models.
+
+Currently working as a **Data and AI Engineer at Aleon AI** and **Software Engineer Intern at Petrobras**
+
+Fluent in **English**, **Portuguese**, and **Spanish**.
+
+---
+
+## Professional Experience
+
+| Role                             | Company                      | Period               |
+| -------------------------------- | ---------------------------- | -------------------- |
+| Data and AI Engineer             | **Aleon AI** (Remote)  | Oct 2024 -- Present  |
+| Software Engineer Intern         | **Petrobras** (Remote) | Mar 2024 -- Present  |
+| Python & Math Teaching Assistant | **PUC-Rio**            | Jan 2024 -- Dec 2025 |
+
+**Key accomplishments:**
+
+- Designed and deployed production-grade ELT pipelines across 12+ data sources processing millions of records using event-driven AWS architectures (Glue, Step Functions, Lambda, DMS, Athena)
+- Achieved 50%+ infrastructure cost reduction through Terraform-based architecture redesign
+- Designed and deployed production-level LLM agents using AWS Bedrock, LangChain, LangGraph, and Chainlit
+- Developed core components of an internal LLM-based task allocation platform automating Microsoft Planner workflows at Petrobras
+- Contributed to a Ruby on Rails financial governance platform integrated with SIGITEC, streamlining multi-project budget and expense tracking
+
+---
+
+## Technical Skills
+
+### Cloud & Data Engineering
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+### AI & LLM Systems
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Backend & Full-Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Tooling
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Selected Public Projects
+
+**Ecommerce Nova Infinitus** -- Production-ready e-commerce platform built with Django and Mercado Pago payment API. Includes secure payment processing, relational database modeling, and 40+ pages of technical documentation.
+
+**Rio de Janeiro Airbnb Price Estimator** -- Scalable ML pipeline in Python for Airbnb price prediction. Processed 5.5M+ records with feature engineering and model training. Predictions served through a Streamlit web application. 70+ pages of technical documentation.
+
+---
+
+## Education
+
+**B.Sc. Computer Science** -- PUC-Rio (2023 -- 2026)
+
+- FAPERJ Technological Initiation Scholarship
+- PUC Academic Scholarship
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dante-navaza2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dante-navaza2005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante-navaza2005&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to international opportunities in Cloud, Data or AI Engineering. Also interested in Full-Stack development roles.*
+
+</div>
