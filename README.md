@@ -1,21 +1,17 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1734566400&v=beta&t=Ig1Hg4gFDsfD0VaZt1yCSWwZDM1-SbFGd-4XG3SxUHQ)](https://www.linkedin.com/in/dante-navaza/)
 <h1 align="center">Hi 👋, I'm Dante Navaza</h1>
-<h3 align="center">A passionate software developer living in Brazil</h3>
+<h3 align="center">Cloud Data & AI Engineer | Full-Stack Development</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dante-navaza2005&label=Profile%20views&color=0e75b6&style=flat" alt="dante-navaza2005" /> </p>
 
-- 🔭 I’m currently working on [E-commerce python](https://github.com/Dante-Navaza2005/Reserva-Ecommerce-Django-Project)
+- I’m currently working with Petrobras and Aleon AI
 
-- 🌱 I’m currently learning **Mysql**
+- How to reach me: [dantenavaza2005@gmail.com](mailto:dantenavaza2005@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dante-navaza/)
 
-- 💬 Ask me about **Python, Unity, Machine Learning**
-
-- 📫 How to reach me **dantenavaza2005@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_eMKZYzxaghmjHHrggN_qwWJMfYSDUuSlmy5tmJDqe0/edit?usp=sharing](https://docs.google.com/document/d/1_eMKZYzxaghmjHHrggN_qwWJMfYSDUuSlmy5tmJDqe0/edit?usp=sharing)
-
-- ⚡ Fun fact **I speak fluently three languages. Portuguese, English, and Spanish**
+- Know about my experiences: [CV](https://docs.google.com/document/d/1ec_tvr3-9jydT1epMSa3jY1AAElk7EalPe8qa7Sfo2w/edit?usp=sharing)
+  
+- Fluent in **Portuguese, English, and Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
