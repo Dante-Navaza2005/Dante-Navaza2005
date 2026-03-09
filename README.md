@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dante Honorato Navaza
+<img src="images/banner.jpeg" alt="Dante Honorato Navaza" width="100%" />
 
 **Cloud Data & AI Engineer | Full-Stack Developer**
 
@@ -98,11 +98,11 @@ Fluent in **English**, **Portuguese**, and **Spanish**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dante-navaza2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dante-navaza2005&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante-navaza2005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante-navaza2005&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante-navaza2005&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
 
 </div>
 
