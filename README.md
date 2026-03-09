@@ -100,13 +100,13 @@ Fluent in **English**, **Portuguese**, and **Spanish**.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante-navaza2005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dante-navaza2005&theme=github_dark" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dante-navaza2005&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dante-navaza2005&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dante-navaza2005&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dante-navaza2005&theme=github_dark" />
 
 </div>
 
