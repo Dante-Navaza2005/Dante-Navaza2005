@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE9J2ZwinQWOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716171598990?e=1734566400&v=beta&t=Ig1Hg4gFDsfD0VaZt1yCSWwZDM1-SbFGd-4XG3SxUHQ)](https://www.linkedin.com/in/dante-navaza/)
+[![MasterHead](images/banner.jpeg)](https://www.linkedin.com/in/dante-navaza/)
 <h1 align="center">Hi 👋, I'm Dante Navaza</h1>
 <h3 align="center">Cloud Data & AI Engineer | Full-Stack Development</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
