@@ -25,23 +25,6 @@ Fluent in **English**, **Portuguese**, and **Spanish**.
 
 ---
 
-## Professional Experience
-
-| Role                             | Company                      | Period               |
-| -------------------------------- | ---------------------------- | -------------------- |
-| Data and AI Engineer             | **Aleon AI** (Remote)  | Oct 2024 -- Present  |
-| Software Engineer Intern         | **Petrobras** (Remote) | Mar 2024 -- Present  |
-| Python & Math Teaching Assistant | **PUC-Rio**            | Jan 2024 -- Dec 2025 |
-
-**Key accomplishments:**
-
-- Designed and deployed production-grade ELT pipelines across 12+ data sources processing millions of records using event-driven AWS architectures (Glue, Step Functions, Lambda, DMS, Athena)
-- Achieved 50%+ infrastructure cost reduction through Terraform-based architecture redesign
-- Designed and deployed production-level LLM agents using AWS Bedrock, LangChain, LangGraph, and Chainlit
-- Developed core components of an internal LLM-based task allocation platform automating Microsoft Planner workflows at Petrobras
-- Contributed to a Ruby on Rails financial governance platform integrated with SIGITEC, streamlining multi-project budget and expense tracking
-
----
 
 ## Technical Skills
 
